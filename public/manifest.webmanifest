@@ -1,0 +1,22 @@
+{
+  "name": "Carrito Rápido",
+  "short_name": "Carrito",
+  "description": "Suma tus productos antes de pasar a caja",
+  "start_url": "/carrito-rapido/",
+  "scope": "/carrito-rapido/",
+  "display": "standalone",
+  "background_color": "#f3f4f6",
+  "theme_color": "#059669",
+  "icons": [
+    {
+      "src": "/carrito-rapido/pwa-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/carrito-rapido/pwa-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
